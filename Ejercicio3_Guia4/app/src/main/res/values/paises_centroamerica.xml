@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="arregloPaises">
+
+        <item> Guatemala </item>
+        <item> Belice </item>
+        <item> El Salvador </item>
+        <item> Honduras </item>
+        <item> Nicaragua </item>
+        <item> Costa Rica </item>
+        <item> Panama </item>
+
+    </string-array>
+
+</resources>

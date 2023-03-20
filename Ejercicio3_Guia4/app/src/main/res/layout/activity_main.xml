@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/tvTitulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="  Paises de Centroamerica"
+        android:textColor="#3F51B5"
+        android:textSize="34sp" />
+
+    <ListView
+        android:id="@+id/lvDias"
+        android:layout_width="match_parent"
+        android:layout_height="393dp" />
+
+    <TextView
+        android:id="@+id/tvPaises"
+        android:layout_width="match_parent"
+        android:layout_height="63dp" />
+</LinearLayout>
